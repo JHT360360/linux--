@@ -1,11 +1,5 @@
-# linux--
+# linux--家居控制系统
 
-# IMX6ULL-Project
-
-介绍
-存放自己学习IMX6ULL时做的项目
-
-**1.基于ARM Linux的智能家居系统**    
 实现LCD触摸控制LED、继电器、SG90舵机等功能，在LCD上实时显示环境光照数据、温湿度数据、是否有人、有害气体浓度等信息，蓝牙模块可以接收蓝牙APP的指令  
 关键字：IMX6ULL、QT、LCD、ap3216c、DHT11、SG90、gpio、I2C、PWM、UART子系统  
 
